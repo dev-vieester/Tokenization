@@ -1,0 +1,22 @@
+# Jupyter / notebook cache
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data/output artifacts
+training.txt
+*.log
+
+# VS Code / IDE settings
+.vscode/
